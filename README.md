@@ -3,5 +3,5 @@ This is a small repository for a console coloring utility class used in some of 
 
 ## Example Usage
 ```java
-System.out.println(ConsoleColor.RED.embolden().underline() + "This message is bright red!");
+System.out.println(ConsoleColor.RED.embolden() + "This message is bright red!");
 ```
